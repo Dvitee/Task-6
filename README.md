@@ -37,8 +37,6 @@ In this task, only the first two features are used for visualization purposes.
 
 A decision boundary plot is produced that shows how the KNN model (with k=5) separates the Iris species based on sepal length and width. Each region in the plot corresponds to a predicted class.
 
-![KNN Decision Boundary](b4ca5662-9b6a-40c0-a2c4-c28c82439819.png)
-
 ---
 
 ## Observations
